@@ -37,5 +37,5 @@ Or install it yourself as:
 
 Forkit! Branchit! Fixit! Pushit!
 
-(Braught to you by Daft Coders.)
+(Brought to you by Daft Coders.)
 
